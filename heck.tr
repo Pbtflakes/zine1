@@ -1,0 +1,213 @@
+.\"&troff
+.\" vim: set tw=72:
+.lg 1
+.AB no
+.TL
+Mallaidh's zine!
+.DA
+.PP
+Heckin' cool zine by Mallaidh, y'all should read it\(emand make me write
+the next one!  This is my first real foray into the world of zines, and
+I should have more to add onto this one.  A bit odd, more than a bit
+disorganized and disjointed, but certainly worth my time to make.
+.PP
+.SH
+Poetry
+.PP
+First off, a very nice poem I recently (mostly) memorized for Poetry Out
+Loud:
+.I
+The Garden\c
+.R
+, by Imagist poet H.D.:
+.PP
+.B I
+.IP
+You are clear
+.br
+O rose, cut in rock,
+.br
+hard as the descent of hail.
+.IP
+I could scrape the colour
+.br
+from the petals
+.br
+like spilt dye from a rock.
+.IP
+If I could break you
+.br
+I could break a tree.
+.IP
+If I could stir
+.br
+I could break a tree\(em
+.br
+I could break you.
+.PP
+.B
+II
+.R
+.IP
+O wind, rend open the heat,
+.br
+cut apart the heat,
+.br
+rend it to tatters.
+.IP
+Fruit cannot drop
+.br
+through this thick air\(em
+.br
+fruit cannot fall into heat
+.br
+that presses up and blunts
+.br
+the points of pears   
+.br
+and rounds the grapes.
+.IP
+Cut the heat\(em
+.br
+plough through it,
+.br
+turning it on either side   
+.br
+of your path.
+.PP
+And now for the poem \fIOread\fR by the same author. Published earlier
+in her career under the pen name H.D. Imagiste, it takes its title from
+the category of mountain nymphs in Greek mythology:
+.QP
+Whirl up, sea\(em
+.br
+Whirl your pointed pines,
+.br
+Splash your great pines
+.br
+On our rocks,
+.br
+Hurl your green over us\(em
+.br
+Cover us with your pools of fir. 
+.SH
+Weather, nature, & cetera.
+.PP
+Nice little winter storm yesterday.  Of course, it took me more than
+half an hour just to heat up and scrape the ice off the side windows.
+So that's what I meant by nice.  Arrived at school at just about half an
+hour late on the dot.
+.PP
+My watch has been running slightly fast, I had to set it back around
+thirty seconds today during art class.  Nice little Casio, outfitted
+with an elastic Speidel band.  I'm pretty confident it came with a
+regular non-elastic band, but the Speidel is very nice and just the
+right size for my wrist.  As long as it keeps on ticking.  The face is
+pretty well scratched up with a few deeper gouges, but nothing that
+interferes with viewing it.
+.SH
+Ham radio
+.PP
+Plans for ham radio:
+.IP \[bu]
+Set up Beverage antenna in the general direction of Europe for the
+purpose of low-noise DXing across the pond.
+.IP \[bu]
+Figure out Fldigi and set it up with the ol' ICOM so I have
+noise-tolerant modes like Hellschreiber and Olivia to work with.
+.IP \[bu]
+Get started on weather satellite tracking because that's also cool
+stuff.
+.SH
+Dogs dogs dogs
+.PP
+A mere handful of my favorite dog breeds:
+.IP \[bu]
+Alopekis: One of the oldest living breeds of dog, with depictions going
+back to neolithic times.
+.IP \[bu]
+Australian Cattle Dog: A hard-working dog bred for cattle driving, this
+breed is sturdily built and often has a beautiful mottled coat.
+.IP \[bu]
+Bluetick Coonhound: A Louisiana blend of southwest France's Bleu de
+Gascogne and various other hunting breeds.
+.IP \[bu]
+Swedish Vallhund, a.k.a. Västgötaspets: An
+ancient breed of herding dog that was rescued from near-extinction in
+1942.
+.SH
+Music listened to
+.PP
+As I write this paragraph: "HELL-O)))-WEEN" by Sunn O))), off their 2004
+album
+.I
+White2\c
+.R
+\&.  One of many rumbling, droning displays of musical power, and my
+next task will be to grab a copy of
+.I
+ØØ Void\c
+.R
+\&.
+.PP
+Also used for writing motivation purposes: a compilation of DNA's
+works off No More Records, released in 2004 and covering a wide range of
+their recordings. A mix of studio and live recordings,
+.I
+DNA on DNA
+.R
+is an excellent cross-section of a pioneering no wave group.
+.SH
+My electric devices
+.PP
+This zine was written in vim and surf was used to preview the HTML
+version, while mupdf is used to preview the PDF version now that I've
+dropped groff-specific web macros.  All of this occurred on a Thinkpad
+T440p running OpenBSD.  The aforementioned music was played using a
+Sherwood RA-1140 receiver connected to JBL speakers.
+.PP
+How this zine was produced:
+.PS 6
+ellipse "document"
+arrow
+box "pic"
+arrow
+box "troff"
+arrow
+box "dpost"
+arrow
+box "ps2pdf"
+arrow
+ellipse "PDF file"
+.PE
+This is to say, once you have the source file the proper incantation is
+as follows:
+.br
+	pic heck.tr | troff -ms | dpost | ps2pdf - fin.pdf
+.SH
+Typewriters
+.PP
+Some of my typewriters include a Smith\(enCorona Skyriter, a beautiful
+IBM Selectric as designed by Eliot Noyes, an old Remington desk model,\&
+and an electric Coronamatic. 
+.PP
+The Selectric clearly had a long life of typing before I purchased it.
+This is something you can tell from its moving parts, the drive motor's
+mounts having loosened, and the clutch stuttering and catching.  It also
+shows in the platen, turned hard and slippery from the typeball strikes.
+Last time I had it moving at all, it took a considerable amount of
+coaxing just to get the motor spinning and the head to strike even the
+wrong characters.
+.PP
+The Skyriter works much better, one of many yardsale purchases I've
+made.  It's a very lightweight portable with a narrow platen and small
+carrying case, only some inconsequential dents in the case.
+.SH
+Endnotes & thanks
+.PP
+This zine was generated using the Heirloom Project's troff mplementation
+and the ms macro set.  Many thanks to the various sources of
+documentation along the way.  Find me on Witches Town under the name
+mallaidh if you want to, if that's not how you found this zine in the
+first place.  This work is licensed under a Creative Commons
+Attribution-ShareAlike 4.0 International License.
